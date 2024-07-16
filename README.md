@@ -14,7 +14,7 @@ A real-time tracking application built with Node.js, Express, EJS, and Socket.io
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/yourusername/real-time-tracking-app.git
+   https://github.com/iamhero2709/RealTimeDeviceTracking-/tree/main
     cd real-time-tracking-app
     ```
 
